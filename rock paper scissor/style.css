@@ -1,0 +1,22 @@
+button{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    font-size: 3rem;
+    cursor: pointer;
+}
+#player{
+    font-size: 2rem;
+}
+#computer{
+    font-size: 2rem;
+}
+#result{
+    font-size: 2rem;
+}
+.greentext{
+    color: rgb(60, 172, 60);
+}
+.redtext{
+    color: red;
+}

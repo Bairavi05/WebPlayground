@@ -1,0 +1,19 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+#btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#stop{
+    margin: 5px 5px;
+}
+#clock{
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}

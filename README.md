@@ -2,7 +2,7 @@
 
 Welcome to **WebPlayground**! This is a collection of basic vanilla JavaScript programs designed to showcase simple and fun web applications. Currently, the repository includes two programs:
 
-1. **Rock Paper Scissors** – A classic game where you can play against the computer.
+1. **Rock Paper Scissors** – A classic game where you can play against the computer. 
 2. **Stopwatch** – A simple stopwatch to measure time.
 
 More programs and features will be added in the future, so stay tuned!
